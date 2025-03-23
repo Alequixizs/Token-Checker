@@ -1,0 +1,13 @@
+{
+  "name": "token-checker",
+  "version": "1.0.0",
+  "description": "checker",
+  "main": "script.js",
+  "author": "alequixizs",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "chalk": "^4.1.2",
+    "discord.js-selfbot-v13": "^2.14.9"
+  }
+}
